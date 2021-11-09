@@ -1,0 +1,17 @@
+{
+  "name": "gmoottoons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.30.1",
+    "express": "^4.17.1",
+    "three": "^0.133.1"
+  }
+}
