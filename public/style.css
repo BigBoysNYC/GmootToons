@@ -29,4 +29,6 @@ canvas {
     display: inline-block;
     text-align: center;
     margin-bottom: 25px;
+    border: 2px solid #d4b417;
+    border-radius: 4px;
 }
